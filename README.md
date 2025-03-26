@@ -40,6 +40,8 @@ Sign up at [Pixabay](https://pixabay.com/api/docs/) to get an API key and add it
 Open Xcode and select your target device, then run:
 ```sh
 Cmd + R
+
+Run with run button in Xcode
 ```
 
 ---
